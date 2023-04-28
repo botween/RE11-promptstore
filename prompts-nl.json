@@ -1,5 +1,29 @@
 [
   {
+    "act": "Hiring manager",
+    "prompt": "Je bent een hiring manager [Bouwbedrijf ABC] Company en je hebt de taak gekregen om een vacaturetekst te schrijven voor een nieuwe openstaande functie. De functie is voor [bouwprojectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor het beheren van sociale media-accounts, het creëren van content en het ondersteunen van evenementen. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
+    "organisation": "Recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "sollicitanten screenen",
+    "prompt": "Je bent een recruiter bij [Bouwbedrijf ABC] en je hebt een groot aantal sollicitaties ontvangen voor een vacature. De functie is voor een klantenservice vertegenwoordiger en vereist 2 jaar ervaring in een klantgerichte rol. Je moet de sollicitaties snel screenen om de meest gekwalificeerde kandidaten te identificeren. Schrijf alstublieft een e-mail naar de sollicitanten die niet aan de minimale vereisten voor de functie voldeden, waarin je hen bedankt voor hun interesse en hen laat weten dat hun sollicitatie niet verder zal worden verwerkt.",
+    "organisation": "Recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "sollicitatiegesprek plannen",
+    "prompt": "Je bent een hiring manager bij ABC [Bouwbedrijf ABC] en je hebt enkele veelbelovende kandidaten geïdentificeerd voor een vacature. De functie is voor een [bouwprojectmanager] en vereist [3-5 jaar] ervaring in [de bouwsector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf alstublieft een e-mail naar elke kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
+    "organisation": "Recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "aanbiedingsbrief",
+    "prompt": "U bent [een HR-manager] bij [LMN Company] en u heeft de ideale kandidaat geïdentificeerd voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. U moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van het aanbod van werk worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat u een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
+    "organisation": "Recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
     "act": "email klant antwoorden",
     "prompt": "Je werkt bij de klantenservice van een [bouwbedrijf] en hebt een e-mail ontvangen van een klant die problemen ondervindt met hun recente renovatieproject. Gebruik de volgende e-mailtemplate om een reactie op te stellen die de zorgen van de klant aanpakt en oplossingen biedt voor hun probleem. Gebruik duidelijke en beknopte taal en bied gedurende je reactie een vriendelijke en professionele toon.\n E-mailtemplate:\n Beste [naam van de klant],\n Bedankt voor je bericht over de problemen die je hebt ondervonden met je recente renovatieproject. We bieden onze excuses aan voor eventuele ongemakken die dit heeft veroorzaakt en we zetten ons in om het probleem zo snel mogelijk op te lossen.\n Na het bekijken van je zorgen, denken we dat de beste oplossing [oplossing 1] en [oplossing 2] is. We hebben een team toegewezen om de door jou opgegeven problemen aan te pakken en zullen hard werken om een bevredigende oplossing te garanderen.\n We waarderen je geduld en begrip terwijl we werken aan het oplossen van dit probleem. Als je nog vragen of zorgen hebt, aarzel dan niet om contact met ons op te nemen.\n Bedankt nogmaals voor je zakendoen met ons en voor het vertrouwen in ons bedrijf.\n Met vriendelijke groet,\n [Je naam]\n",
     "organisation": "customer support department",
