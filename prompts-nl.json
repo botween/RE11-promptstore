@@ -1,7 +1,7 @@
 [
   {
-    "act": "Hiring manager",
-    "prompt": "Je bent een hiring manager [Bouwbedrijf ABC] Company en je hebt de taak gekregen om een vacaturetekst te schrijven voor een nieuwe openstaande functie. De functie is voor [bouwprojectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor het beheren van sociale media-accounts, het creëren van content en het ondersteunen van evenementen. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
+    "act": "Recrutering manager",
+    "prompt": "Je bent een hiring manager [Bouwbedrijf ABC Company] en je hebt de taak gekregen om een vacaturetekst te schrijven voor een nieuwe openstaande functie. De functie is voor [bouwprojectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor het beheren van sociale media-accounts, het creëren van content en het ondersteunen van evenementen. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
     "organisation": "Recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
@@ -12,33 +12,98 @@
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
-    "act": "sollicitatiegesprek plannen",
+    "act": "Sollicitatiegesprek plannen",
     "prompt": "Je bent een hiring manager bij ABC [Bouwbedrijf ABC] en je hebt enkele veelbelovende kandidaten geïdentificeerd voor een vacature. De functie is voor een [bouwprojectmanager] en vereist [3-5 jaar] ervaring in [de bouwsector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf alstublieft een e-mail naar elke kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
     "organisation": "Recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
-    "act": "aanbiedingsbrief",
+    "act": "Aanbiedingsbrief schrijven",
     "prompt": "U bent [een HR-manager] bij [LMN Company] en u heeft de ideale kandidaat geïdentificeerd voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. U moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van het aanbod van werk worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat u een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
     "organisation": "Recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
-    "act": "email klant antwoorden",
-    "prompt": "Je werkt bij de klantenservice van een [bouwbedrijf] en hebt een e-mail ontvangen van een klant die problemen ondervindt met hun recente renovatieproject. Gebruik de volgende e-mailtemplate om een reactie op te stellen die de zorgen van de klant aanpakt en oplossingen biedt voor hun probleem. Gebruik duidelijke en beknopte taal en bied gedurende je reactie een vriendelijke en professionele toon.\n E-mailtemplate:\n Beste [naam van de klant],\n Bedankt voor je bericht over de problemen die je hebt ondervonden met je recente renovatieproject. We bieden onze excuses aan voor eventuele ongemakken die dit heeft veroorzaakt en we zetten ons in om het probleem zo snel mogelijk op te lossen.\n Na het bekijken van je zorgen, denken we dat de beste oplossing [oplossing 1] en [oplossing 2] is. We hebben een team toegewezen om de door jou opgegeven problemen aan te pakken en zullen hard werken om een bevredigende oplossing te garanderen.\n We waarderen je geduld en begrip terwijl we werken aan het oplossen van dit probleem. Als je nog vragen of zorgen hebt, aarzel dan niet om contact met ons op te nemen.\n Bedankt nogmaals voor je zakendoen met ons en voor het vertrouwen in ons bedrijf.\n Met vriendelijke groet,\n [Je naam]\n",
-    "organisation": "customer support department",
-    "roles": "customer support manager, sales manager, customer support representative, customer support agent, customer support, customer service, customer service manager, customer service representative"
+    "act": "Vacature plaatsen",
+    "prompt": "Je bent een afdelingsmanager van een [bouwbedrijf] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. Schrijf een vacature voor de functie van [bouwprojectmanager] waarin de verantwoordelijkheden, vereiste kwalificaties en belangrijkste kenmerken die je zoekt bij een kandidaat worden benadrukt. Zorg ervoor dat je de voordelen en extra's vermeldt van het werken bij jouw bedrijf en gebruik overtuigende taal om toptalent aan te trekken om te solliciteren voor de functie.",
+    "organisation": "Recruitmentafdeling",
+    "roles": "HR-medewerker, HR-manager, Wervingsdirecteur"
   },
   {
-    "act": "Adverteerder",
+    "act": "Campagne maken om te promoten",
     "prompt": "Ik wil dat je optreedt als adverteerder. Je gaat een campagne maken om een product of dienst naar keuze te promoten. Je kiest een doelgroep, ontwikkelt belangrijke boodschappen en slogans, selecteert de mediakanalen voor promotie en beslist over eventuele aanvullende activiteiten die nodig zijn om je doelen te bereiken. Mijn eerste suggestieverzoek is: Ik heb hulp nodig bij het maken van een reclamecampagne voor [een nieuw type energiedrank] gericht op [jongvolwassenen] van [18-30 jaar].",
     "organisation": "Marketingafdeling",
     "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
   {
-    "act": "Vacature plaatsen",
-    "prompt": "Je bent een afdelingsmanager van een [bouwbedrijf] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. Schrijf een vacature voor de functie van [bouwprojectmanager] waarin de verantwoordelijkheden, vereiste kwalificaties en belangrijkste kenmerken die je zoekt bij een kandidaat worden benadrukt. Zorg ervoor dat je de voordelen en extra's vermeldt van het werken bij jouw bedrijf en gebruik overtuigende taal om toptalent aan te trekken om te solliciteren voor de functie.",
-    "organisation": "Afdeling Human Resources, Wervingsafdeling, Team",
-    "roles": "HR-medewerker, HR-manager, Wervingsdirecteur"
+    "act": "Marktonderzoek-enquête maken",
+    "prompt": "Maak alsjeblieft een marktonderzoek-enquête om gegevens te verzamelen over de behoeften, voorkeuren en gedrag van onze klanten. De enquête moet bestaan uit [10-15] vragen en worden verspreid via [online kanalen/enquêteplatform]. Nadat we de resultaten hebben, maak dan een marktanalyserapport dat de bevindingen samenvat en inzichten biedt in de [specifieke branche/segment] markttrends. Bereid ook een markttrendvoorspelling voor om ons te helpen potentiële groeimogelijkheden te identificeren.",
+    "organisation": "Marketingafdeling",
+    "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "Merkrichtlijnen ontwikkel",
+    "prompt": "Ontwikkel alsjeblieft merkrichtlijnen die onze merkmissie, -waarden, -persoonlijkheid en visuele elementen zoals [logo, kleurenpalet, typografie, beeldmateriaal] definiëren. Maak ook een merkstemgids die ons merktoneel, -berichten en communicatiestijl beschrijft. Maak tot slot een merkstijlgids die het gebruik van onze merkelementen specificeert over [alle kanalen/specifieke kanalen zoals social media, e-mailmarketing, enz.]",
+    "organisation": "Marketingafdeling",
+    "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "Blog schrijven",
+    "prompt": "Schrijf alsjeblieft een blogpost over [onderwerp naar keuze/opgegeven onderwerp] die waarde biedt aan onze lezers en SEO-zoekwoorden bevat. De blogpost moet [1000-1500 woorden] lang zijn en [visuele elementen zoals afbeeldingen, infographics, enz.] bevatten. Maak ook [5-10] social media-posts om de blogpost te promoten op onze social media-kanalen. Ontwikkel tenslotte een whitepaper die onze expertise in [branche/onderwerp] laat zien en waardevolle inzichten biedt aan onze doelgroep. De whitepaper moet [10-15 pagina's] lang zijn en [visuele elementen zoals grafieken, tabellen, enz.] bevatten.",
+    "organisation": "Marketingafdeling",
+    "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "Evenementuitnodiging ontwerpen",
+    "prompt": "Ontwerp alsjeblieft een evenementuitnodiging die alle benodigde details bevat, zoals [datum, tijd, locatie, agenda, registratieproces]. De uitnodiging voor het evenement moet visueel aantrekkelijk zijn en [overtuigende kopie en visuals bevatten]. Maak ook een pagina voor evenementregistratie waarop deelnemers zich kunnen registreren en waarop ze aanvullende informatie over het evenement krijgen. De registratiepagina moet geoptimaliseerd zijn voor [specifieke platforms zoals Eventbrite, Eventzilla, enz.] en [overtuigende kopie en visuals bevatten]. Tot slot, bereid een follow-up e-mail voor na het evenement om de deelnemers te bedanken voor hun komst en hen aan te moedigen om de gewenste actie te ondernemen, zoals het plannen van een afspraak.",
+    "organisation": "Marketingafdeling",
+    "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "Displayadvertenties ontwerpen",
+    "prompt": "Ontwerp alsjeblieft displayadvertenties in verschillende maten en formaten, inclusief [opgegeven formaten zoals 300x250, 728x90, etc.]. De advertenties moeten visueel aantrekkelijk zijn en [overtuigende kopie en visuals bevatten]. Maak ook [5-10] social media-advertenties die visueel aantrekkelijk zijn en overtuigend zijn voor ons doelpubliek. De social media-advertenties moeten geoptimaliseerd zijn voor [specifieke platforms zoals Facebook, Instagram, enz.] en [overtuigende kopie en visuals bevatten]. Tot slot, bereid [5-10] zoekmachineadvertenties voor die zich richten op specifieke zoekwoorden die verband houden met onze producten of diensten. De zoekmachineadvertenties moeten [tekst / beeld] gebaseerd zijn en [overtuigende kopie en visuals bevatten].",
+    "organisation": "Marketingafdeling",
+    "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "Response Email",
+    "prompt": "As a customer support agent, please draft a response email to address the customer's issue or query. Ensure that you acknowledge the issue and provide a timeline for resolution. Also, include information on the steps being taken to resolve the issue and the contact details of the support team.",
+    "organisation": "Customer support",
+    "role": "Customer Support Department"
+  },
+  {
+    "act": "Resolution Email",
+    "prompt": "As a customer support agent, please draft a resolution email to inform the customer that their issue has been resolved. Ensure that you summarize the issue and the resolution provided. Also, include any relevant follow-up actions, such as closing the ticket or requesting feedback.",
+    "organisation": "Customer support",
+    "role": "Customer Support Department"
+  },
+  {
+    "act": "Follow-Up Email",
+    "prompt": "As a customer support agent, please draft a follow-up email to check if the customer is satisfied with the resolution provided. Ensure that you ask for feedback and provide an opportunity for the customer to raise any further concerns or issues.",
+    "organisation": "Customer support",
+    "role": "Customer Support Department"
+  },
+  {
+    "act": "Escalation Email",
+    "prompt": "As a customer support agent, please draft an escalation email to inform the customer that their issue has been escalated to a higher authority. Ensure that you provide details on the escalation process and the expected timeline for resolution. Also, include contact details of the escalation team and assure the customer that their issue is being taken seriously.",
+    "organisation": "Customer support",
+    "role": "Customer Support Department"
+  },
+  {
+    "act": "Retention Email",
+    "prompt": "As a customer support agent, please draft a retention email to address the customer's concerns and persuade them to stay with our service/product. Ensure that you highlight the benefits of our product/service and offer personalized solutions to the customer's concerns. Also, provide contact details of the support team and assure the customer that their feedback is valuable to us.",
+    "organisation": "Customer support",
+    "role": "Customer Support Department"
+  },
+  {
+    "act": "Retention Offer",
+    "prompt": "As a customer support agent, please draft a retention offer to incentivize the customer to stay with our service/product. Ensure that the offer is personalized to the customer's needs and is attractive enough to persuade them to stay. Also, provide details on the offer's terms and conditions and the contact details of the support team.",
+    "organisation": "Customer support",
+    "role": "Customer Support Department"
+  },
+  {
+    "act": "Building Offer",
+    "prompt": "As a representative of a building company, please draft an offer that includes a description of work to be done, what will be done, the required materials, the cost of the project, and a timeline for the project.",
+    "role": "Building Company"
   }
 ]
