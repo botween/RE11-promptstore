@@ -1,7 +1,7 @@
 [
   {
     "act": "vacaturetekst schrijven",
-    "prompt": "Je bent [een HR-manager] bij een [handelbedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor het beheren van sociale media-accounts, het creëren van content en het ondersteunen van evenementen. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
+    "prompt": "Je bent [een HR-manager] bij een [handelbedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
@@ -24,12 +24,6 @@
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
-    "act": "vacature plaatsen",
-    "prompt": "Je bent een afdelingsmanager van een [handelbedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. Schrijf een vacature voor de functie van [projectmanager] waarin de verantwoordelijkheden, vereiste kwalificaties en belangrijkste kenmerken die je zoekt bij een kandidaat worden benadrukt. Zorg ervoor dat je de voordelen en extra's vermeldt van het werken bij jouw bedrijf en gebruik overtuigende taal om toptalent aan te trekken om te solliciteren voor de functie.",
-    "organisation": "recruitmentafdeling",
-    "roles": "HR-medewerker, HR-manager, Wervingsdirecteur"
-  },
-  {
     "act": "campagne maken om te promoten",
     "prompt": "Ik wil dat je optreedt als adverteerder. Je gaat een campagne maken om een product of dienst naar keuze te promoten. Je kiest een doelgroep, ontwikkelt belangrijke boodschappen en slogans, selecteert de mediakanalen voor promotie en beslist over eventuele aanvullende activiteiten die nodig zijn om je doelen te bereiken. Mijn eerste suggestieverzoek is: Ik heb hulp nodig bij het maken van een reclamecampagne voor [een nieuw type energiedrank] gericht op [jongvolwassenen] van [18-30 jaar].",
     "organisation": "marketingafdeling",
@@ -42,7 +36,7 @@
     "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
   {
-    "act": "merkrichtlijnen ontwikkel",
+    "act": "merkrichtlijnen ontwikkelen",
     "prompt": "Ontwikkel alsjeblieft merkrichtlijnen die onze merkmissie, -waarden, -persoonlijkheid en visuele elementen zoals [logo, kleurenpalet, typografie, beeldmateriaal] definiëren. Maak ook een merkstemgids die ons merktoneel, -berichten en communicatiestijl beschrijft. Maak tot slot een merkstijlgids die het gebruik van onze merkelementen specificeert over [alle kanalen/specifieke kanalen zoals social media, e-mailmarketing, enz.]",
     "organisation": "marketingafdeling",
     "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
@@ -102,7 +96,7 @@
     "role": "Afdeling klantenservice"
   },
   {
-    "act": "aanbod schrijven",
+    "act": "offert schrijven",
     "prompt": "Als vertegenwoordiger van een [handelbedrijf ABC] dient u een aanbod op te stellen waarin een beschrijving van het uit te voeren werk, wat er zal gebeuren, de benodigde materialen, de kosten van het project en een tijdschema voor het project staan vermeld.",
     "organisation": "Klantenservice",
     "role": "Verkoopafdeling"
