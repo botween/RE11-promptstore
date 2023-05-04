@@ -1,25 +1,25 @@
 [
   {
     "act": "vacaturetekst schrijven",
-    "prompt": "Je bent [een HR-manager] bij een [handelbedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
+    "prompt": "Je bent [een HR-manager] bij [e-commercebedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
     "act": "sollicitanten screenen",
-    "prompt": "Je bent [een recruiter] bij [handelbedrijf ABC] en je hebt een groot aantal sollicitaties ontvangen voor een vacature. De functie is voor een klantenservice vertegenwoordiger en vereist 2 jaar ervaring in een klantgerichte rol. Je moet de sollicitaties snel screenen om de meest gekwalificeerde kandidaten te identificeren. Schrijf alstublieft een e-mail naar de sollicitanten die niet aan de minimale vereisten voor de functie voldeden, waarin je hen bedankt voor hun interesse en hen laat weten dat hun sollicitatie niet verder zal worden verwerkt.",
+    "prompt": "Je bent [een recruiter] bij [e-commercebedrijf ABC] en je hebt een groot aantal sollicitaties ontvangen voor een vacature. De functie is voor een klantenservice vertegenwoordiger en vereist 2 jaar ervaring in een klantgerichte rol. Je moet de sollicitaties snel screenen om de meest gekwalificeerde kandidaten te identificeren. Schrijf alstublieft een e-mail naar de sollicitanten die niet aan de minimale vereisten voor de functie voldeden, waarin je hen bedankt voor hun interesse en hen laat weten dat hun sollicitatie niet verder zal worden verwerkt.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
     "act": "sollicitatiegesprek plannen",
-    "prompt": "Je bent een hiring manager bij [handelbedrijfijf ABC] en je hebt enkele veelbelovende kandidaten geïdentificeerd voor een vacature. De functie is voor een [projectmanager] en vereist [3-5 jaar] ervaring in [de handelsector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf alstublieft een e-mail naar elke kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
+    "prompt": "Je bent een hiring manager bij [e-commercebedrijf ABC] en je hebt enkele veelbelovende kandidaten geïdentificeerd voor een vacature. De functie is voor een [projectmanager] en vereist [3-5 jaar] ervaring in [de handelsector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf alstublieft een e-mail naar elke kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
     "act": "aanbiedingsbrief schrijven",
-    "prompt": "Je bent [een HR-manager] bij [LMN Company] en je heeft de ideale kandidaat geïdentificeerd voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. Je moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van het aanbod van werk worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat je een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
+    "prompt": "Je bent [een HR-manager] bij [e-commercebedrijf ABC] en je heeft de ideale kandidaat geïdentificeerd voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. Je moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van het aanbod van werk worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat je een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
@@ -79,13 +79,13 @@
   },
   {
     "act": "escalatie-email",
-    "prompt": "Als klantenservice-agent van [handelbedrijf ABC] dient u een escalatie-e-mail op te stellen om de klant te informeren dat hun probleem naar een hogere autoriteit is doorverwezen. Zorg ervoor dat u details verstrekt over het escalatieproces en de verwachte tijdlijn voor oplossing. Vermeld ook contactgegevens van het escalatieteam en verzekert de klant dat hun probleem serieus wordt genomen.",
+    "prompt": "Als klantenservice-agent van [e-commercebedrijf ABC] dient u een escalatie-e-mail op te stellen om de klant te informeren dat hun probleem naar een hogere autoriteit is doorverwezen. Zorg ervoor dat u details verstrekt over het escalatieproces en de verwachte tijdlijn voor oplossing. Vermeld ook contactgegevens van het escalatieteam en verzekert de klant dat hun probleem serieus wordt genomen.",
     "organisation": "Klantenservice",
     "role": "Afdeling klantenservice"
   },
   {
     "act": "behoud-email",
-    "prompt": "Als klantenservice-agent van [handelbedrijf ABC] dient u een behoud-e-mail op te stellen om de zorgen van de klant aan te pakken en hen te overtuigen bij ons service/product te blijven. Zorg ervoor dat u de voordelen van ons product / onze service benadrukt en gepersonaliseerde oplossingen biedt voor de zorgen van de klant. Geef ook contactgegevens van het ondersteuningsteam en verzeker de klant dat hun feedback waardevol voor ons is.",
+    "prompt": "Als klantenservice-agent van [e-commercebedrijf ABC] dient u een behoud-e-mail op te stellen om de zorgen van de klant aan te pakken en hen te overtuigen bij ons service/product te blijven. Zorg ervoor dat u de voordelen van ons product / onze service benadrukt en gepersonaliseerde oplossingen biedt voor de zorgen van de klant. Geef ook contactgegevens van het ondersteuningsteam en verzeker de klant dat hun feedback waardevol voor ons is.",
     "organisation": "Klantenservice",
     "role": "Afdeling klantenservice"
   },
@@ -97,7 +97,7 @@
   },
   {
     "act": "offert schrijven",
-    "prompt": "Als vertegenwoordiger van een [handelbedrijf ABC] dient u een aanbod op te stellen waarin een beschrijving van het uit te voeren werk, wat er zal gebeuren, de benodigde materialen, de kosten van het project en een tijdschema voor het project staan vermeld.",
+    "prompt": "Als vertegenwoordiger van een [e-commercebedrijf ABC] dient u een aanbod op te stellen waarin een beschrijving van het uit te voeren werk, wat er zal gebeuren, de benodigde materialen, de kosten van het project en een tijdschema voor het project staan vermeld.",
     "organisation": "Klantenservice",
     "role": "Verkoopafdeling"
   },
