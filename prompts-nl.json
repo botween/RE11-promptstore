@@ -1,55 +1,55 @@
 [
   {
     "act": "vacaturetekst schrijven",
-    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] dat op zoek is naar een ervaren en deskundige medewerker voor een belangrijke rol in je team. De functie is voor [een projectmanager] en de medewerker rapporteert aan [de bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf een vacaturetekst die toptalent aanmoedigt om op deze functie te solliciteren. Vermeld de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
     "act": "sollicitanten screenen",
-    "prompt": "Je bent [een recruiter] bij [e-commercebedrijf ABC] en je hebt een groot aantal sollicitaties ontvangen voor een vacature. De functie is voor een klantenservice vertegenwoordiger en vereist 2 jaar ervaring in een klantgerichte rol. Je moet de sollicitaties snel screenen om de meest gekwalificeerde kandidaten te identificeren. Schrijf alstublieft een e-mail naar de sollicitanten die niet aan de minimale vereisten voor de functie voldeden, waarin je hen bedankt voor hun interesse en hen laat weten dat hun sollicitatie niet verder zal worden verwerkt.",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] en je hebt een groot aantal sollicitaties ontvangen voor een vacature. De functie is voor een klantenservicemedewerker en met minimaal 2 jaar ervaring in een klantgerichte rol. Je moet de sollicitaties snel screenen om de best gekwalificeerde kandidaten te vinden. Schrijf een e-mail naar de sollicitanten die niet aan de minimale vereisten voor de functie voldoen, waarin je hen bedankt voor hun interesse en hen laat weten dat hun sollicitatie niet verder zal worden verwerkt.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
     "act": "sollicitatiegesprek plannen",
-    "prompt": "Je bent een hiring manager bij [e-commercebedrijf ABC] en je hebt enkele veelbelovende kandidaten geïdentificeerd voor een vacature. De functie is voor een [projectmanager] en vereist [3-5 jaar] ervaring in [de handelsector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf alstublieft een e-mail naar elke kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] en je hebt enkele veelbelovende kandidaten gevonden voor een vacature. De functie is voor een [projectmanager] en vereist [3-5 jaar] ervaring in [de handelssector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf een e-mail naar iedere kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
     "act": "aanbiedingsbrief schrijven",
-    "prompt": "Je bent [een HR-manager] bij [e-commercebedrijf ABC] en je heeft de ideale kandidaat geïdentificeerd voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. Je moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van het aanbod van werk worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat je een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] en je hebt de ideale kandidaat gevonden voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. Je moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van de aanbieding worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat je een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
   {
-    "act": "campagne maken om te promoten",
-    "prompt": "Ik wil dat je optreedt als adverteerder. Je gaat een campagne maken om een product of dienst naar keuze te promoten. Je kiest een doelgroep, ontwikkelt belangrijke boodschappen en slogans, selecteert de mediakanalen voor promotie en beslist over eventuele aanvullende activiteiten die nodig zijn om je doelen te bereiken. Mijn eerste suggestieverzoek is: Ik heb hulp nodig bij het maken van een reclamecampagne voor [een nieuw type energiedrank] gericht op [jongvolwassenen] van [18-30 jaar].",
+    "act": "promotiecampagne maken",
+    "prompt": "Ik wil dat je optreedt als adverteerder. Je gaat een campagne maken om een bepaald product of bepaalde dienst te promoten. Je kiest een doelgroep, ontwikkelt belangrijke boodschappen en slogans, selecteert de mediakanalen voor promotie en beslist over eventuele aanvullende activiteiten waarmee je deze doelen kunt bereiken. Mijn eerste suggestieverzoek is: Ik heb hulp nodig bij het maken van een reclamecampagne voor [een nieuw type energiedrank] gericht op [jongvolwassenen] van [18-30 jaar].",
     "organisation": "marketingafdeling",
     "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
   {
-    "act": "marktonderzoek-enquête maken",
-    "prompt": "Maak alsjeblieft een marktonderzoek-enquête om gegevens te verzamelen over de behoeften, voorkeuren en gedrag van onze klanten. De enquête moet bestaan uit [10-15] vragen en worden verspreid via [online kanalen/enquêteplatform]. Nadat we de resultaten hebben, maak dan een marktanalyserapport dat de bevindingen samenvat en inzichten biedt in de [specifieke branche/segment] markttrends. Bereid ook een markttrendvoorspelling voor om ons te helpen potentiële groeimogelijkheden te identificeren.",
+    "act": "enquête voor marktonderzoek maken",
+    "prompt": "Maak een enquête voor marktonderzoek om gegevens te verzamelen over de behoeften, de voorkeuren en het gedrag van onze klanten. De enquête moet bestaan uit [10-15] vragen en worden verspreid via [online kanalen/enquêteplatform]. Maak na ontvangst van de resultaten een marktanalyserapport dat de bevindingen samenvat en inzichten biedt in de markttrends voor [branche/segment]. Bereid ook een markttrendvoorspelling voor om ons te helpen vast te stellen waar zich groeimogelijkheden bevonden.",
     "organisation": "marketingafdeling",
     "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
   {
     "act": "merkrichtlijnen ontwikkelen",
-    "prompt": "Ontwikkel alsjeblieft merkrichtlijnen die onze merkmissie, -waarden, -persoonlijkheid en visuele elementen zoals [logo, kleurenpalet, typografie, beeldmateriaal] definiëren. Maak ook een merkstemgids die ons merktoneel, -berichten en communicatiestijl beschrijft. Maak tot slot een merkstijlgids die het gebruik van onze merkelementen specificeert over [alle kanalen/specifieke kanalen zoals social media, e-mailmarketing, enz.]",
+    "prompt": "Ontwikkel merkrichtlijnen die onze merkmissie, -waarden, -persoonlijkheid en visuele elementen zoals [logo, kleurenpalet, typografie, beeldmateriaal] definiëren. Maak ook een merkgids die ons merktoneel, -berichten en communicatiestijl beschrijft. Maak tot slot een merkstijlgids die het gebruik van onze merkelementen specificeert over [alle kanalen/specifieke kanalen zoals social media, e-mailmarketing, enz.]",
     "organisation": "marketingafdeling",
     "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
   {
     "act": "blog schrijven",
-    "prompt": "Schrijf alsjeblieft een blogpost over [onderwerp naar keuze/opgegeven onderwerp] die waarde biedt aan onze lezers en SEO-zoekwoorden bevat. De blogpost moet [1000-1500 woorden] lang zijn en [visuele elementen zoals afbeeldingen, infographics, enz.] bevatten. Maak ook [5-10] social media-posts om de blogpost te promoten op onze social media-kanalen. Ontwikkel tenslotte een whitepaper die onze expertise in [branche/onderwerp] laat zien en waardevolle inzichten biedt aan onze doelgroep. De whitepaper moet [10-15 pagina's] lang zijn en [visuele elementen zoals grafieken, tabellen, enz.] bevatten.",
+    "prompt": "Schrijf een blogpost over [onderwerp naar keuze/opgegeven onderwerp] die voor onze lezers interessant is en SEO-zoekwoorden bevat. De blogpost moet [1000-1500 woorden] lang zijn en [visuele elementen zoals afbeeldingen, infographics, enz.] bevatten. Maak ook [5-10] social media-posts om de blogpost te promoten op onze social media-kanalen. Ontwikkel tenslotte een whitepaper waaruit onze expertise in [branche/onderwerp] blijkt en die waardevolle inzichten biedt aan onze doelgroep. De whitepaper moet [10-15 pagina's] lang zijn en [visuele elementen zoals grafieken, tabellen, enz.] bevatten.",
     "organisation": "marketingafdeling",
     "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
   {
     "act": "evenementuitnodiging ontwerpen",
-    "prompt": "Ontwerp alsjeblieft een evenementuitnodiging die alle benodigde details bevat, zoals [datum, tijd, locatie, agenda, registratieproces]. De uitnodiging voor het evenement moet visueel aantrekkelijk zijn en [overtuigende kopie en visuals bevatten]. Maak ook een pagina voor evenementregistratie waarop deelnemers zich kunnen registreren en waarop ze aanvullende informatie over het evenement krijgen. De registratiepagina moet geoptimaliseerd zijn voor [specifieke platforms zoals Eventbrite, Eventzilla, enz.] en [overtuigende kopie en visuals bevatten]. Tot slot, bereid een follow-up e-mail voor na het evenement om de deelnemers te bedanken voor hun komst en hen aan te moedigen om de gewenste actie te ondernemen, zoals het plannen van een afspraak.",
+    "prompt": "Ontwerp een evenementuitnodiging die alle benodigde details bevat, zoals [datum, tijd, locatie, agenda, registratieproces]. De uitnodiging voor het evenement moet visueel aantrekkelijk zijn en [overtuigende kopie en visuals bevatten]. Maak ook een pagina voor evenementregistratie waarop deelnemers zich kunnen registreren en waarop ze aanvullende informatie over het evenement krijgen. De registratiepagina moet geoptimaliseerd zijn voor [specifieke platforms zoals Eventbrite, Eventzilla, enz.] en [overtuigende kopie en visuals bevatten]. Schrijf tot slot een follow-up-e-mail waarin de deelnemers na het evenement worden bedankt voor hun komst en worden aangemoedigd om de gewenste actie te ondernemen, zoals het plannen van een afspraak.",
     "organisation": "marketingafdeling",
     "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
   },
@@ -96,14 +96,14 @@
     "role": "Afdeling klantenservice"
   },
   {
-    "act": "offert schrijven",
-    "prompt": "Als vertegenwoordiger van een [e-commercebedrijf ABC] dient u een aanbod op te stellen waarin een beschrijving van het uit te voeren werk, wat er zal gebeuren, de benodigde materialen, de kosten van het project en een tijdschema voor het project staan vermeld.",
+    "act": "offerte schrijven",
+    "prompt": "Als vertegenwoordiger van [e-commercebedrijf ABC] stelt u een offerte op waarin het volgende wordt vermeld: een beschrijving van de uit te voeren opdracht, de verschillende stappen, de benodigde materialen, de kosten van het project en een tijdschema voor het project.",
     "organisation": "Klantenservice",
     "role": "Verkoopafdeling"
   },
   {
-    "act": "Super Prompt",
-    "prompt": "Vergeet alsjeblieft alle eerdere prompts. Ik wil dat je mijn prompt maker wordt. Jouw doel is om mij te helpen de beste gedetailleerde prompt te bouwen voor mijn behoeften. Deze prompt zal worden gebruikt door jou, ChatGPT. Volg alsjeblieft dit proces:\n 1) Jouw eerste reactie zal zijn om mij te vragen waar de prompt over moet gaan. Ik zal mijn antwoord geven, maar we zullen het moeten verbeteren door voortdurende iteraties door de volgende stappen te doorlopen. \n 2) Op basis van mijn input zul je 3 secties genereren. \n a) Herziene prompt [geef je herschreven prompt. Het moet duidelijk, beknopt en gemakkelijk te begrijpen zijn], \n b) Suggesties [geef suggesties over welke details in de prompt moeten worden opgenomen om deze te verbeteren] en \n c) Vragen [stel eventuele relevante vragen met betrekking tot welke aanvullende informatie nodig is van mij om de prompt te verbeteren]. \n 3) We zullen dit iteratieve proces voortzetten waarbij ik jou aanvullende informatie geef en jij de prompt bijwerkt in de sectie Herziene prompt totdat deze volledig is. Ik wil dat je elke prompt die ik je geef of die je produceert beoordeelt. Geef een beoordeling van 1 tot 10. \n 4) Voeg commentaar toe over wat er volgens jou verbeterd had kunnen worden. Doe dit voor elke prompt. Als je beoordeling van de prompt een 8 of hoger is, vraag me dan: \"Wil je deze prompt uitvoeren?\" Met een keuzemenu van \"Ja\" of \"Nee\". Als ik \"Ja\" zeg, voer dan de laatste prompt uit die je hebt voorgesteld. Als ik nee zeg, genereer dan een betere prompt voor mij. Het is essentieel om ervoor te zorgen dat je een prompt uitvoert als ik Ja zeg. Ga alsjeblieft door met deze prompt totdat ik stop zeg of je de prompt uitvoert. Dank je.",
+    "act": "SuperPrompt",
+    "prompt": "Vergeet alle eerdere prompts. Ik wil dat je mijn promptmaker wordt. Jouw doel is om mij te helpen de beste gedetailleerde prompt op te stellen voor mijn behoeften. Deze prompt zal worden gebruikt door jou, ChatGPT. Volg dit proces:\n 1) Jouw eerste reactie zal zijn om mij te vragen waarover de prompt moet gaan. Ik zal mijn antwoord geven, maar we zullen het voortdurend moeten verbeteren door de volgende stappen opnieuw te doorlopen. \n 2) Op basis van mijn input genereer je 3 onderdelen. \n a) Herziene prompt [geef je herschreven prompt. Het moet duidelijk, beknopt en gemakkelijk te begrijpen zijn], \n b) Suggesties [geef suggesties over welke details in de prompt moeten worden opgenomen om deze te verbeteren] en \n c) Vragen [stel eventuele relevante vragen met betrekking tot welke aanvullende informatie nodig is van mij om de prompt te verbeteren]. \n 3) We zullen dit herhaalde proces voortzetten, waarbij ik jou aanvullende informatie geef en jij de prompt bijwerkt in het onderdeel Herziene prompt totdat deze volledig is. Ik wil dat je elke prompt die ik je geef of die je produceert, beoordeelt. Geef een beoordeling van 1 tot 10. \n 4) Voeg commentaar toe over wat er volgens jou verbeterd had kunnen worden. Doe dit voor elke prompt. Als je beoordeling van de prompt een 8 of hoger is, vraag me dan: \"Wil je deze prompt uitvoeren?\" Met een keuzemenu van \"Ja\" of \"Nee\". Als ik \"Ja\" zeg, voer dan de laatste prompt uit die je hebt voorgesteld. Als ik nee zeg, genereer dan een betere prompt voor mij. Het is essentieel dat je een prompt uitvoert als ik Ja zeg. Ga door met deze prompt totdat ik stop zeg of je de prompt uitvoert.",
     "organisation": "IT-afdeling",
     "roles": "IT"
   }
