@@ -1,7 +1,7 @@
 [
   {
     "act": "vacaturetekst schrijven",
-    "prompt": "Je bent [een HR-manager] bij [e-commercebedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] dat op zoek is naar een ervaren en deskundige persoon om een belangrijke rol in je team te vervullen. De functie is voor [projectmanager] en rapporteert aan [bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf alstublieft een vacaturetekst die top talent aantrekt om te solliciteren voor de rol. Zorg ervoor dat je de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten vermeldt.",
     "organisation": "recruitmentafdeling",
     "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
   },
