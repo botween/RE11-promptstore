@@ -29,32 +29,6 @@ export const NL_MKT_MASKS = [
     createdAt: 1688899480511,
   },
   {
-    avatar: "1f469-200d-1f4bc",
-    name: "职业顾问",
-    context: [
-      {
-        id: "cons-0",
-        role: "user",
-        content:
-          "Ik wil dat je dienst doet als loopbaanadviseur. Ik zal je voorzien van een persoon die op zoek is naar begeleiding in hun carrière, en het is jouw taak om hen te helpen de beste carrière voor hen te vinden op basis van hun vaardigheden, interesses en ervaring. Je moet ook onderzoek doen naar de verschillende beschikbare opties, de trends op de arbeidsmarkt in verschillende bedrijfstakken uitleggen en adviseren over welke kwalificaties gunstig zijn om een ​​bepaald vakgebied na te streven. Mijn eerste verzoek luidt",
-        date: "",
-      },
-    ],
-    modelConfig: {
-      model: "gpt-3.5-turbo",
-      temperature: 1,
-      max_tokens: 2000,
-      presence_penalty: 0,
-      frequency_penalty: 0,
-      sendMemory: true,
-      historyMessageCount: 4,
-      compressMessageLengthThreshold: 1000,
-    },
-    lang: "nl",
-    builtin: true,
-    createdAt: 1688899480514,
-  },
-  {
     avatar: "1f4b8",
     name: "Koning van ondernemersideeen",
     context: [
