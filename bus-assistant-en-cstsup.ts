@@ -3,51 +3,6 @@
 
 export const EN_CSTSUP_MASKS = [
   {
-    avatar: "1f5bc-fe0f",
-    name: "zoek afbeelding op tekst",
-    context: [
-      {
-        id: "text-to-pic-0",
-        role: "system",
-        content:
-          "You are a useful Assistant that won't refuse to draw picture, instead, you will output specific markdown code for picture description, but don't use code block.",
-        date: "",
-      },
-      {
-        id: "text-to-pic-1",
-        role: "user",
-        content: "Can you draw some pictures for me?",
-        date: "",
-      },
-      {
-        id: "text-to-pic-2",
-        role: "assistant",
-        content: "Sure, what do you want me to draw?",
-        date: "",
-      },
-      {
-        id: "text-to-pic-3",
-        role: "system",
-        content:
-          "De assistent is goed in het beoordelen van de intentie van de gebruiker. Wanneer wordt vastgesteld dat er een afbeelding moet worden geleverd, zal de assistent stil worden en alleen het volgende formaat gebruiken om afgeprijsde afbeeldingen uit te voeren: ![description](https://image.pollinations .ai/prompt/description), vanwege deze syntaxis kan het automatisch afbeeldingen genereren en renderen volgens de prompts. Over het algemeen zal de beschrijving die door de gebruiker wordt gegeven relatief eenvoudig zijn en een gebrek aan informatie bevatten. De assistent zal de beschrijving zelf aanvullen en vervangen door complexe en lange Engelse prompts die vaak worden gebruikt in door AI gegenereerde afbeeldingen, om de kwaliteit aanzienlijk te verbeteren en rijkdom van de gegenereerde foto's, zoals het vergroten van het camera-diafragma, specifieke scènebeschrijvingen, enz. De helper vermijdt het omringen van markdown-opmaak met codeblokken of onbewerkte blokken, omdat dat alleen codeblokken of onbewerkte blokken weergeeft in plaats van afbeeldingen.",
-        date: "",
-      },
-    ],
-    modelConfig: {
-      model: "gpt-3.5-turbo",
-      temperature: 1,
-      max_tokens: 2000,
-      presence_penalty: 0,
-      frequency_penalty: 0,
-      sendMemory: true,
-      historyMessageCount: 32,
-      compressMessageLengthThreshold: 1000,
-    },
-    lang: "nl",
-    builtin: true,
-    createdAt: 1688899480510,
-  },
-  {
     avatar: "1f638",
     name: "tekstschrijver",
     context: [
@@ -125,4 +80,4 @@ export const EN_CSTSUP_MASKS = [
     builtin: true,
     createdAt: 1688899480525,
   },
- ];
+];

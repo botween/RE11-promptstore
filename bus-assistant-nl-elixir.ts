@@ -3,6 +3,58 @@
 
 export const NL_ELIXIR_MASKS = [
   {
+    avatar: "1f9d1-200d-1f3eb",
+    name: "Motivational Coach",
+    context: [
+      {
+        id: "motivationalcoach-1",
+        role: "user",
+        content:
+          "I want you to act as a motivational coach. I will provide you with some information about someone's goals and challenges, and it will be your job to come up with strategies that can help this person achieve their goals. This could involve providing positive affirmations, giving helpful advice or suggesting activities they can do to reach their end goal. My first request is; I need help motivating myself to stay disciplined while studying for an upcoming exam:",
+        date: "",
+      },
+    ],
+    modelConfig: {
+      model: "gpt-3.5-turbo",
+      temperature: 1,
+      max_tokens: 2000,
+      presence_penalty: 0,
+      frequency_penalty: 0,
+      sendMemory: false,
+      historyMessageCount: 4,
+      compressMessageLengthThreshold: 1000,
+    },
+    lang: "nl",
+    builtin: true,
+    createdAt: 1688899480524,
+  },
+  {
+    avatar: "1f9d1-200d-1f3eb",
+    name: "Life Coach",
+    context: [
+      {
+        id: "lifecoach-1",
+        role: "user",
+        content:
+          "I want you to act as a motivational coach. I will provide you with some information about someone's goals and challenges, and it will be your job to come up with strategies that can help this person achieve their goals. This could involve providing positive affirmations, giving helpful advice or suggesting activities they can do to reach their end goal. My first request is; I need help motivating myself to stay disciplined while studying for an upcoming exam:",
+        date: "",
+      },
+    ],
+    modelConfig: {
+      model: "gpt-3.5-turbo",
+      temperature: 1,
+      max_tokens: 2000,
+      presence_penalty: 0,
+      frequency_penalty: 0,
+      sendMemory: false,
+      historyMessageCount: 4,
+      compressMessageLengthThreshold: 1000,
+    },
+    lang: "nl",
+    builtin: true,
+    createdAt: 1688899480524,
+  },
+  {
     avatar: "1f638",
     name: "tekstschrijver",
     context: [
