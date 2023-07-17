@@ -1,7 +1,7 @@
 // import { BuiltinMask } from "./typing";
 // BuiltinMask
 
-export const NL_MASKS = [
+export const NL_CSTSUP_MASKS = [
   {
     avatar: "1f5bc-fe0f",
     name: "zoek afbeelding op tekst",
