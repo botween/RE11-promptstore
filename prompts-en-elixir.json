@@ -1,38 +1,38 @@
 [
   {
-    "act": "e-mail: antwoord",
+    "act": "e-mail: answer",
     "prompt": "Schrijf als klantenservicemedewerker een e-mail als antwoord op een vraag of opmerking van een klant. Zorg ervoor dat je het probleem erkent en een tijdslijn voor een oplossing geeft. Voeg ook informatie toe over de stappen die worden genomen om het probleem op te lossen en de contactgegevens van het ondersteuningsteam.",
-    "organisation": "Klantensupport",
-    "role": "Klantensupportafdeling"
+    "organisation": "customer support",
+    "role": "customer support"
   },
   {
-    "act": "e-mail: oplossing",
+    "act": "e-mail: solution",
     "prompt": "Schrijf als klantenservicemedewerker een e-mail waarin je de klant laat weten dat zijn probleem is opgelost. Zorg ervoor dat je het probleem en de geboden oplossing samenvat. Voeg ook eventuele relevante stappel toe die als follow-up worden genomen, zoals het sluiten van het ticket of het vragen om feedback.",
-    "organisation": "Klantensupport",
-    "role": "Klantensupportafdeling"
+    "organisation": "customer support",
+    "role": "customer support"
   },
   {
     "act": "e-mail: follow-up",
     "prompt": "Schrijf als klantenservicemedewerker van [e-commercebedrijf ABC] een follow-up-e-mail om te controleren of de klant tevreden is met de geboden oplossing. Zorg ervoor dat je om feedback vraagt en geef de klant de mogelijkheid om verdere zorgen of problemen aan te kaarten.",
-    "organisation": "Klantensupport",
-    "role": "Klantensupportafdeling"
+    "organisation": "customer support",
+    "role": "customer support"
   },
   {
-    "act": "e-mail: escalatie",
+    "act": "e-mail: escalation",
     "prompt": "Schrijf als klantenservicemedewerker van [e-commercebedrijf ABC] een escalatie-e-mail om de klant te informeren dat zijn probleem naar een hoger niveau is doorverwezen. Verstrek details over het escalatieproces en het verwachte tijdschema voor oplossing. Vermeld ook de contactgegevens van het escalatieteam en verzeker de klant dat het probleem serieus wordt genomen.",
     "organisation": "Klantenservice",
-    "role": "Afdeling klantenservice"
+    "role": "customer support"
   },
   {
-    "act": "e-mail: klantbehoud",
+    "act": "e-mail: customer retention",
     "prompt": "Schrijf als klantenservicemedewerker van [e-commercebedrijf ABC] een e-mail waarin je ingaat op de zorgen van de klant en hem ervan overtuigt onze service of ons product te blijven gebruiken. Zorg ervoor dat je de voordelen van ons product of onze service benadrukt en op maat gesneden oplossingen biedt voor de zorgen van de klant. Verstrek ook de contactgegevens van het ondersteuningsteam en verzeker de klant dat zijn feedback waardevol voor ons is.",
     "organisation": "Klantenservice",
-    "role": "Afdeling klantenservice"
+    "role": "customer support"
   },
   {
-    "act": "e-mail: aanbieding voor klantbehoud",
+    "act": "e-mail: actions to keep the customer",
     "prompt": "Schrijf als klantenservicemedewerker een e-mail om de klant te motiveren gebruik te blijven maken van onze service of ons product. Zorg ervoor dat de aanbieding is afgestemd op de behoeften van de klant en aantrekkelijk genoeg is om ervoor te zorgen dat hij onze service of ons product zal blijven gebruiken. Geef ook details over de voorwaarden van de aanbieding en de contactgegevens van het ondersteuningsteam.",
     "organisation": "Klantenservice",
-    "role": "Afdeling klantenservice"
+    "role": "customer support"
   }
 ]
