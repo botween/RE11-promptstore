@@ -1,0 +1,110 @@
+[
+  {
+    "act": "vacaturetekst schrijven",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] dat op zoek is naar een ervaren en deskundige medewerker voor een belangrijke rol in je team. De functie is voor [een projectmanager] en de medewerker rapporteert aan [de bedrijfsdirecteur]. De succesvolle kandidaat zal verantwoordelijk zijn voor [het beheren van sociale media-accounts], [het creëren van content en het ondersteunen van evenementen]. Schrijf een vacaturetekst die toptalent aanmoedigt om op deze functie te solliciteren. Vermeld de functietitel, belangrijkste verantwoordelijkheden, vereiste kwalificaties en andere belangrijke details voor potentiële kandidaten.",
+    "organisation": "recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "sollicitanten screenen",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] en je hebt een groot aantal sollicitaties ontvangen voor een vacature. De functie is voor een klantenservicemedewerker en met minimaal 2 jaar ervaring in een klantgerichte rol. Je moet de sollicitaties snel screenen om de best gekwalificeerde kandidaten te vinden. Schrijf een e-mail naar de sollicitanten die niet aan de minimale vereisten voor de functie voldoen, waarin je hen bedankt voor hun interesse en hen laat weten dat hun sollicitatie niet verder zal worden verwerkt.",
+    "organisation": "recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "sollicitatiegesprek plannen",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] en je hebt enkele veelbelovende kandidaten gevonden voor een vacature. De functie is voor een [projectmanager] en vereist [3-5 jaar] ervaring in [de handelssector]. Je moet sollicitatiegesprekken plannen met de kandidaten. Schrijf een e-mail naar iedere kandidaat waarin je de datum, tijd en locatie van het sollicitatiegesprek bevestigt, evenals eventuele andere details die ze moeten weten (zoals wat ze moeten meenemen, naar wie ze moeten vragen bij aankomst, enz.).",
+    "organisation": "recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "aanbiedingsbrief schrijven",
+    "prompt": "Je bent [HR-manager] bij [e-commercebedrijf ABC] en je hebt de ideale kandidaat gevonden voor een vacature. De functie is voor een [HR-generalist] en vereist [een bachelordiploma in HR of een gerelateerd vakgebied en 3-5 jaar ervaring]. Je moet een formele aanbiedingsbrief sturen. Schrijf een aanbiedingsbrief waarin de voorwaarden van de aanbieding worden beschreven, inclusief de startdatum, het salaris, de voordelen en andere relevante details. Zorg ervoor dat je een deadline vermeldt waarop de kandidaat het aanbod moet accepteren of afwijzen.",
+    "organisation": "recruitmentafdeling",
+    "roles": "Recruiter, HR-medewerker, HR-manager, Recruiting coördinator, Talent acquisition specialist, Talent manager"
+  },
+  {
+    "act": "promotiecampagne maken",
+    "prompt": "Ik wil dat je optreedt als adverteerder. Je gaat een campagne maken om een bepaald product of bepaalde dienst te promoten. Je kiest een doelgroep, ontwikkelt belangrijke boodschappen en slogans, selecteert de mediakanalen voor promotie en beslist over eventuele aanvullende activiteiten waarmee je deze doelen kunt bereiken. Mijn eerste suggestieverzoek is: Ik heb hulp nodig bij het maken van een reclamecampagne voor [een nieuw type energiedrank] gericht op [jongvolwassenen] van [18-30 jaar].",
+    "organisation": "marketingafdeling",
+    "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "enquête voor marktonderzoek maken",
+    "prompt": "Maak een enquête voor marktonderzoek om gegevens te verzamelen over de behoeften, de voorkeuren en het gedrag van onze klanten. De enquête moet bestaan uit [10-15] vragen en worden verspreid via [online kanalen/enquêteplatform]. Maak na ontvangst van de resultaten een marktanalyserapport dat de bevindingen samenvat en inzichten biedt in de markttrends voor [branche/segment]. Bereid ook een markttrendvoorspelling voor om ons te helpen vast te stellen waar zich groeimogelijkheden bevonden.",
+    "organisation": "marketingafdeling",
+    "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "merkrichtlijnen ontwikkelen",
+    "prompt": "Ontwikkel merkrichtlijnen die onze merkmissie, -waarden, -persoonlijkheid en visuele elementen zoals [logo, kleurenpalet, typografie, beeldmateriaal] definiëren. Maak ook een merkgids die ons merktoneel, -berichten en communicatiestijl beschrijft. Maak tot slot een merkstijlgids die het gebruik van onze merkelementen specificeert over [alle kanalen/specifieke kanalen zoals social media, e-mailmarketing, enz.]",
+    "organisation": "marketingafdeling",
+    "roles": "Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "blog schrijven",
+    "prompt": "Schrijf een blogpost over [onderwerp naar keuze/opgegeven onderwerp] die voor onze lezers interessant is en SEO-zoekwoorden bevat. De blogpost moet [1000-1500 woorden] lang zijn en [visuele elementen zoals afbeeldingen, infographics, enz.] bevatten. Maak ook [5-10] social media-posts om de blogpost te promoten op onze social media-kanalen. Ontwikkel tenslotte een whitepaper waaruit onze expertise in [branche/onderwerp] blijkt en die waardevolle inzichten biedt aan onze doelgroep. De whitepaper moet [10-15 pagina's] lang zijn en [visuele elementen zoals grafieken, tabellen, enz.] bevatten.",
+    "organisation": "marketingafdeling",
+    "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "evenementuitnodiging ontwerpen",
+    "prompt": "Ontwerp een evenementuitnodiging die alle benodigde details bevat, zoals [datum, tijd, locatie, agenda, registratieproces]. De uitnodiging voor het evenement moet visueel aantrekkelijk zijn en [overtuigende kopie en visuals bevatten]. Maak ook een pagina voor evenementregistratie waarop deelnemers zich kunnen registreren en waarop ze aanvullende informatie over het evenement krijgen. De registratiepagina moet geoptimaliseerd zijn voor [specifieke platforms zoals Eventbrite, Eventzilla, enz.] en [overtuigende kopie en visuals bevatten]. Schrijf tot slot een follow-up-e-mail waarin de deelnemers na het evenement worden bedankt voor hun komst en worden aangemoedigd om de gewenste actie te ondernemen, zoals het plannen van een afspraak.",
+    "organisation": "marketingafdeling",
+    "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "displayadvertenties ontwerpen",
+    "prompt": "Ontwerp displayadvertenties in verschillende maten en formaten, inclusief [opgegeven formaten zoals 300x250, 728x90, etc.]. De advertenties moeten visueel aantrekkelijk zijn en [overtuigende kopie en visuals bevatten]. Maak ook [5-10] social media-advertenties die visueel aantrekkelijk zijn en overtuigend zijn voor ons doelpubliek. De social media-advertenties moeten geoptimaliseerd zijn voor [specifieke platforms zoals Facebook, Instagram, enz.] en [overtuigende kopie en visuals bevatten]. Schrijf tot slot [5-10] zoekmachineadvertenties die zich richten op specifieke zoekwoorden die verband houden met onze producten of diensten. De zoekmachineadvertenties moeten gebaseerd zijn op [tekst/beeld] en [overtuigende inhoud en visuals bevatten].",
+    "organisation": "Marketingafdeling",
+    "roles": "Content marketeer, Marketingmanager, Marketingmedewerker, Marketingdirecteur, Marketingassistent, Marketingcoördinator, Marketingspecialist, Marketinganalist"
+  },
+  {
+    "act": "e-mail: antwoord",
+    "prompt": "Schrijf als klantenservicemedewerker een e-mail als antwoord op een vraag of opmerking van een klant. Zorg ervoor dat je het probleem erkent en een tijdslijn voor een oplossing geeft. Voeg ook informatie toe over de stappen die worden genomen om het probleem op te lossen en de contactgegevens van het ondersteuningsteam.",
+    "organisation": "Klantensupport",
+    "role": "Klantensupportafdeling"
+  },
+  {
+    "act": "e-mail: oplossing",
+    "prompt": "Schrijf als klantenservicemedewerker een e-mail waarin je de klant laat weten dat zijn probleem is opgelost. Zorg ervoor dat je het probleem en de geboden oplossing samenvat. Voeg ook eventuele relevante stappel toe die als follow-up worden genomen, zoals het sluiten van het ticket of het vragen om feedback.",
+    "organisation": "Klantensupport",
+    "role": "Klantensupportafdeling"
+  },
+  {
+    "act": "e-mail: follow-up",
+    "prompt": "Schrijf als klantenservicemedewerker van [e-commercebedrijf ABC] een follow-up-e-mail om te controleren of de klant tevreden is met de geboden oplossing. Zorg ervoor dat je om feedback vraagt en geef de klant de mogelijkheid om verdere zorgen of problemen aan te kaarten.",
+    "organisation": "Klantensupport",
+    "role": "Klantensupportafdeling"
+  },
+  {
+    "act": "e-mail: escalatie",
+    "prompt": "Schrijf als klantenservicemedewerker van [e-commercebedrijf ABC] een escalatie-e-mail om de klant te informeren dat zijn probleem naar een hoger niveau is doorverwezen. Verstrek details over het escalatieproces en het verwachte tijdschema voor oplossing. Vermeld ook de contactgegevens van het escalatieteam en verzeker de klant dat het probleem serieus wordt genomen.",
+    "organisation": "Klantenservice",
+    "role": "Afdeling klantenservice"
+  },
+  {
+    "act": "e-mail: klantbehoud",
+    "prompt": "Schrijf als klantenservicemedewerker van [e-commercebedrijf ABC] een e-mail waarin je ingaat op de zorgen van de klant en hem ervan overtuigt onze service of ons product te blijven gebruiken. Zorg ervoor dat je de voordelen van ons product of onze service benadrukt en op maat gesneden oplossingen biedt voor de zorgen van de klant. Verstrek ook de contactgegevens van het ondersteuningsteam en verzeker de klant dat zijn feedback waardevol voor ons is.",
+    "organisation": "Klantenservice",
+    "role": "Afdeling klantenservice"
+  },
+  {
+    "act": "e-mail: aanbieding voor klantbehoud",
+    "prompt": "Schrijf als klantenservicemedewerker een e-mail om de klant te motiveren gebruik te blijven maken van onze service of ons product. Zorg ervoor dat de aanbieding is afgestemd op de behoeften van de klant en aantrekkelijk genoeg is om ervoor te zorgen dat hij onze service of ons product zal blijven gebruiken. Geef ook details over de voorwaarden van de aanbieding en de contactgegevens van het ondersteuningsteam.",
+    "organisation": "Klantenservice",
+    "role": "Afdeling klantenservice"
+  },
+  {
+    "act": "offerte opstellen",
+    "prompt": "Schrijf als vertegenwoordiger van [e-commercebedrijf ABC] een offerte waarin het volgende wordt vermeld: een beschrijving van de uit te voeren opdracht, de verschillende stappen, de benodigde materialen, de kosten van het project en een tijdschema voor het project.",
+    "organisation": "Klantenservice",
+    "role": "Verkoopafdeling"
+  },
+  {
+    "act": "Superprompt",
+    "prompt": "Vergeet alle eerdere prompts. Ik wil graag dat je mijn promptmaker wordt. Jouw doel is om mij te helpen de allerbeste gedetailleerde prompt op te stellen. Deze prompt zal worden gebruikt door jou, ChatGPT. Volg dit proces:\n 1) Als eerste reactie daarop vraag je mij waarover mijn prompt moet gaan. Ik zal mijn antwoord geven, maar we moeten blijven werken aan verbetering van de prompt door de stappen steeds opnieuw te doorlopen. \n 2) Op basis van mijn input genereer jij 3 onderdelen. \n a) Herziene prompt [geef je herschreven prompt. Deze moet duidelijk, beknopt en gemakkelijk te begrijpen zijn], \n b) Suggesties [geef suggesties over welke details in de prompt moeten worden opgenomen om deze te verbeteren] en \n c) Vragen [stel eventuele relevante vragen, bijvoorbeeld welke aanvullende informatie nodig is van mij om de prompt te verbeteren]. \n 3) We zullen dit herhaalde proces voortzetten, waarbij ik jou aanvullende informatie geef en jij de prompt bijwerkt in het onderdeel Herziene prompt totdat deze volledig is. Ik wil dat je elke prompt die ik je geef of die jij produceert, beoordeelt. Geef een beoordeling met een cijfer van 1 tot 10. \n 4) Licht toe wat er volgens jou verbeterd had kunnen worden. Doe dit voor elke prompt. Als jouw beoordeling van de prompt een 8 of hoger is, vraag me dan: \"Wil je deze prompt uitvoeren?\" Met een keuzemenu van \"Ja\" of \"Nee\". Als ik \"Ja\" zeg, voer dan de laatste prompt uit die je hebt voorgesteld. Als ik nee zeg, genereer dan een betere prompt voor mij. Het is essentieel dat je een prompt uitvoert als ik Ja zeg. Ga door met deze prompt totdat ik stop zeg, of je de prompt uitvoert.",
+    "organisation": "IT-afdeling",
+    "roles": "IT"
+  }
+]

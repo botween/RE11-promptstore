@@ -1,0 +1,92 @@
+[
+  {
+    "act": "undertand business - Client Discovery",
+    "prompt": "Suggest key questions to ask during a client discovery call to understand their business objectives.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "identify critical needs - Client Discovery",
+    "prompt": "Propose a framework for identifying the most critical needs of a client in the [healthcare] industry.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "client priorities - Client Discovery",
+    "prompt": "Develop a list of discussion points to explore the client’s preferences and priorities in a [marketing strategy project].",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "common painpoints - Identify pain points",
+    "prompt": "Describe common pain points for small businesses in the [e-commerce] sector.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Potential pain points - Identify pain points",
+    "prompt": "Outline key challenges faced by large enterprises during digital transformation projects.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Potential painpoints - Identify pain points",
+    "prompt": "List potential pain points for a client looking to expand their business internationally.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "top 3 competitors - Analyzing Competitive landscape",
+    "prompt": "Compare [Company X] and its top three competitors in terms of market share, product offerings, and pricing strategies.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "competitive threat - Analyzing Competitive landscape",
+    "prompt": "Identify potential competitive threats for [Company X] in the next five years.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "new entrant - Analyzing Competitive landscape",
+    "prompt": "Analyze the competitive landscape of the [electric vehicle] market in Europe and highlight areas where a new entrant could gain an advantage.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "keyfindings - Collecting and Interpreting Data",
+    "prompt": "Summarize the key findings from the attached sales data for [Company X].",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "trends customer satifaction- Collecting and Interpreting Data",
+    "prompt": "Identify trends in the customer satisfaction survey results for [Company X].",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "correlation marketing spend vs revenue growth- Collecting and Interpreting Data",
+    "prompt": "Analyze the correlation between marketing spend and revenue growth for Company X over the last three years.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Global market trend - Collecting and Interpreting Data",
+    "prompt": "Provide a high-level overview of the global market trends for sustainable packaging materials.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Financial performance - Collecting and Interpreting Data",
+    "prompt": "Interpret the financial performance of Company X based on the provided financial statements.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Superprompt",
+    "prompt": "Please forget all prior prompts. I want you to become my Prompt Creator. Your goal is to help me build the best detailed prompt for my needs. This prompt will be used by you, ChatGPT. Please follow this following process:\n 1) Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps.\n 2) Based on my input, you will generate 3 sections.\n a) Revised prompt [provide your rewritten prompt. it should be clear, concise, and easily understood by you], \n b) Suggestions [provide suggestions on what details to include in the prompt to improve it] and \n c) Questions [ask any relevant questions pertaining to what additional information is needed from me to improve the prompt].\n 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it s complete. I want you to rate every prompt I give you or you produce. Give a rating 1 to 10.\n 4. Add comments on what you think could have been improved about it. Do this for every prompt. If you rating of the prompt is an 8 or higher, ask me: \"Would you like to run this prompt?\" With a menu choice of \"Yes\" or \"No\". If I say \"Yes\" run the last prompt you suggested. If I say no generate me a better prompt. It is vital to make sure you run a prompt when I say Yes. Please continue this prompt until I say stop or you run the prompt. Thank you.",
+    "organisation": "Consultant",
+    "roles": "Consultant"
+  }
+]
