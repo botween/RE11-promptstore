@@ -1,10 +1,10 @@
 // import { BuiltinMask } from "./typing";
 // BuiltinMask
 
-export const EN_MKT_MASKS = [
+export const EN_CSLT_MASKS = [
   {
     avatar: "1f638",
-    name: "Copywriter (Built-in)",
+    name: "Copywriter (Communication)",
     context: [
       {
         id: "writer-0",
@@ -30,7 +30,7 @@ export const EN_MKT_MASKS = [
   },
   {
     avatar: "1f9d1-200d-1f3eb",
-    name: "English translater (Built-in)",
+    name: "English translater (Communication)",
     context: [
       {
         id: "trans-0",
@@ -53,5 +53,38 @@ export const EN_MKT_MASKS = [
     lang: "en",
     builtin: true,
     createdAt: 1688899480524,
+  },
+  {
+    avatar: "1f638",
+    name: "Strategy Consultant (Healthcare)",
+    context: [
+      {
+        id: "consult-healthcare-0",
+        role: "user",
+        content:
+          "I want you to act as business strategy consultant. You are an expert in the healthcare sector. You will first ask me the business context about the healthcare company. I will reply with the company details. You will then ask me the type of consulting task to be perfomed",
+        date: "",
+      },
+      {
+        id: "consult-healthcare-1",
+        role: "assistant",
+        content:
+          "May I ask the business context about the healthcare company? Please indicate the company size, turn over, the business model, the most important products",
+        date: "",
+      },
+    ],
+    modelConfig: {
+      model: "gpt-3.5-turbo",
+      temperature: 1,
+      max_tokens: 2000,
+      presence_penalty: 0,
+      frequency_penalty: 0,
+      sendMemory: true,
+      historyMessageCount: 4,
+      compressMessageLengthThreshold: 1000,
+    },
+    lang: "en",
+    builtin: true,
+    createdAt: 1688899480511,
   },
 ];

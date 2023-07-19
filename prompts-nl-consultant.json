@@ -1,0 +1,14 @@
+[
+  {
+    "act": "e-mail: antwoord",
+    "prompt": "Schrijf als klantenservicemedewerker een e-mail als antwoord op een vraag of opmerking van een klant. Zorg ervoor dat je het probleem erkent en een tijdslijn voor een oplossing geeft. Voeg ook informatie toe over de stappen die worden genomen om het probleem op te lossen en de contactgegevens van het ondersteuningsteam.",
+    "organisation": "Klantensupport",
+    "role": "Klantensupportafdeling"
+  },
+  {
+    "act": "e-mail: oplossing",
+    "prompt": "Schrijf als klantenservicemedewerker een e-mail waarin je de klant laat weten dat zijn probleem is opgelost. Zorg ervoor dat je het probleem en de geboden oplossing samenvat. Voeg ook eventuele relevante stappel toe die als follow-up worden genomen, zoals het sluiten van het ticket of het vragen om feedback.",
+    "organisation": "Klantensupport",
+    "role": "Klantensupportafdeling"
+  }
+]
