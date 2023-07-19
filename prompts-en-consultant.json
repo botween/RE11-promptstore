@@ -67,7 +67,7 @@
   },
   {
     "act": "correlation marketing spend vs revenue growth- Collecting and Interpreting Data",
-    "prompt": "Analyze the correlation between marketing spend and revenue growth for Company X over the last three years.",
+    "prompt": "Analyze the correlation between marketing spend and revenue growth the Company over the last three years.",
     "organisation": "consulting",
     "roles": "Consultant"
   },
@@ -80,6 +80,312 @@
   {
     "act": "Financial performance - Collecting and Interpreting Data",
     "prompt": "Interpret the financial performance of Company X based on the provided financial statements.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "emerging trends - Trends and Patterns",
+    "prompt": "Examine the emerging trends in the global software-as-a-service (SaaS) market.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "consumer behavior - Trends and Patterns",
+    "prompt": "Identify patterns in consumer behavior related to online shopping during the holiday season.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "luxury goods demand - Trends and Patterns",
+    "prompt": "Analyze the impact of economic indicators on the demand for luxury goods over the past decade.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "digital marketing - Trends and Patterns",
+    "prompt": "Describe the recent trends in digital marketing strategies adopted by leading tech companies.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "fintech industry startups - Trends and Patterns",
+    "prompt": "Uncover patterns in the success of startups within the fintech industry.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "areas for improvement - Insights and Recommendations",
+    "prompt": "Based on the analysis of Company X's customer feedback, suggest three areas for improvement.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "areas for improvement - Insights and Recommendations",
+    "prompt": "Propose recommendations to Company X for addressing the identified skill gaps within their workforce..",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "remote work - Insights and Recommendations",
+    "prompt": "Develop a strategy the Company to capitalize on the growing trend of remote work.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "leverage strength - Insights and Recommendations",
+    "prompt": "Suggest ways the Company to leverage their strengths and mitigate their weaknesses, as identified in the provided SWOT analysis.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "pricing strategies - Insights and Recommendations",
+    "prompt": "Recommend three pricing strategies the Company to increase its profitability based on the competitive analysis.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "SMART - Goals and Objectives",
+    "prompt": "Help us define SMART goals the Company's digital transformation project.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "product launch campaign - Goals and Objectives",
+    "prompt": "Establish clear objectives the Company's upcoming product launch campaign.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "KPI customer retention - Goals and Objectives",
+    "prompt": "Outline the key performance indicators (KPIs) to measure the success of Company X's new customer retention strategy.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Sustainable growth - Goals and Objectives",
+    "prompt": "Propose a set of strategic objectives the Company to achieve sustainable growth over the next five years.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "list of goals - Goals and Objectives",
+    "prompt": "Develop a prioritized list of goals the Company to improve its employee engagement and satisfaction.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "alternative strategies -  Strategic Alternatives",
+    "prompt": "Provide three alternative strategies the Company to expand its market share in the software industry.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "3 options to optimize -  Strategic Alternatives",
+    "prompt": "Suggest different options the Company to optimize its supply chain and reduce logistics costs.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "merger and acquisition -  Strategic Alternatives",
+    "prompt": "Explore potential merger and acquisition opportunities the Company to strengthen its position in the market.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "alternative marketing strategies -  Strategic Alternatives",
+    "prompt": "Propose alternative marketing strategies the Company to increase brand awareness and customer engagement.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "business model innovations -  Strategic Alternatives",
+    "prompt": "Identify potential business model innovations for the Company to capitalize on emerging industry trends.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "new market -  Feasibility and Trade-offs",
+    "prompt": "Assess the feasibility of Company X entering the Asian market, considering the potential risks and benefits.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "organic growth vs acquisition - Feasibility and Trade-offs",
+    "prompt": "Analyze the trade-offs between Company X investing in organic growth vs. pursuing an acquisition strategy.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "cost and benefits - Feasibility and Trade-offs",
+    "prompt": "Evaluate the costs and benefits of Company X adopting a subscription-based pricing model for its products.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "pros and cons - Feasibility and Trade-offs",
+    "prompt": "Compare the pros and cons of Company X outsourcing its IT operations vs. maintaining an in-house team.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "potential impact - Feasibility and Trade-offs",
+    "prompt": "Determine the potential impact on Company X's profitability if they shift to a more environmentally friendly manufacturing process.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "high-level project plan - Project Management",
+    "prompt": "Create a high-level project plan for Company X's upcoming software implementation, including key milestones and timelines.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "high-level project plan - Project Management",
+    "prompt": "Create a high-level project plan for Company X's upcoming software implementation, including key milestones and timelines.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "resource allocation plan - Project Management",
+    "prompt": "Outline a resource allocation plan for Company X's marketing campaign, considering budget constraints and personnel availability.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "propose schedule - Project Management",
+    "prompt": "Propose a schedule for Company X's product development process, including major milestones and deadlines.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "risk-adjusted project timeline - Project Management",
+    "prompt": "Develop a risk-adjusted project timeline for Company X's international expansion initiative.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "project prioritization framework - Project Management",
+    "prompt": "Suggest a project prioritization framework for Company X to effectively manage multiple ongoing projects.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "potential risks - Risk Identification and Mitigation",
+    "prompt": "Identify potential risks associated with Company X's digital transformation project and suggest mitigation strategies.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "financial, operational, and reputational risks - Risk Identification and Mitigation",
+    "prompt": "Assess the financial, operational, and reputational risks of Company X's proposed merger with Company Y.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "risk management plan - Risk Identification and Mitigation",
+    "prompt": "Develop a risk management plan for Company X's new product launch, including risk identification, assessment, and mitigation measures.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "strategies to mitigate risks - Risk Identification and Mitigation",
+    "prompt": "Propose strategies for Company X to mitigate potential supply chain disruptions due to geopolitical uncertainties.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "potential risks - Risk Identification and Mitigation",
+    "prompt": "Outline potential risks and corresponding mitigation strategies for Company X's remote work transition.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "project performance metrics - Monitoring Progress and Performance",
+    "prompt": "Suggest a set of project performance metrics for Company X's software implementation project.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "monitoring and reporting framework - Monitoring Progress and Performance",
+    "prompt": "Develop a project monitoring and reporting framework for Company X's marketing campaign.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "tracking and reporting progress - Monitoring Progress and Performance",
+    "prompt": "Propose a system for tracking and reporting the progress of Company X's product development process.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "performance evaluation framework - Monitoring Progress and Performance",
+    "prompt": "Outline a performance evaluation framework for Company X's internal process improvement initiative.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "KPI dashboard - Monitoring Progress and Performance",
+    "prompt": "Design a dashboard to monitor the key performance indicators (KPIs) for Company X's customer retention strategy.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Compelling Narratives - Communication",
+    "prompt": "Develop a compelling narrative for Company X's digital transformation journey, highlighting the challenges, successes, and lessons learned.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "Craft a story - Communication",
+    "prompt": "Craft a story that showcases the impact of Company X's new marketing strategy on customer engagement and brand awareness.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "engaging narrative - Communication",
+    "prompt": "Create an engaging narrative to describe Company X's journey towards becoming a market leader in sustainable products.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "case study - Communication",
+    "prompt": "Write a case study that demonstrates the success of Company X's recent cost optimization initiative.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "powerful narrative - Communication",
+    "prompt": "Build a powerful narrative around Company X's customer-centric approach and its impact on customer satisfaction and loyalty.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "presentation layout and design - Engaging Presentations",
+    "prompt": "Suggest a layout and design for a presentation showcasing Company X's competitive analysis results.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "structure and visual elements - Engaging Presentations",
+    "prompt": "Propose a structure and visual elements for a presentation on Company X's market entry strategy.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "engaging presentation - Engaging Presentations",
+    "prompt": "Provide ideas for designing an engaging presentation on Company X's workforce optimization plan.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "presentation outline - Engaging Presentations",
+    "prompt": "Develop a presentation outline for Company X's financial performance analysis and recommendations.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "visually appealing - Engaging Presentations",
+    "prompt": "Develop a presentation outline for Company X's financial performance analysis and recommendations.",
     "organisation": "consulting",
     "roles": "Consultant"
   },
