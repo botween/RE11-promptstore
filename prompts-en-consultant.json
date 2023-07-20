@@ -390,6 +390,126 @@
     "roles": "Consultant"
   },
   {
+    "act": "questions from client/leadership - Q&A Sessions",
+    "prompt": "Identify possible questions that Company X's leadership might ask regarding the proposed digital transformation strategy.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "client's concerns - Q&A Sessions",
+    "prompt": "Anticipate client concerns and questions about the recommended cost-cutting measures for Company X.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "client's potention questions - Q&A Sessions",
+    "prompt": "Prepare for potential questions related to Company X's new product launch plan and its associated risks.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "questions from stackholders - Q&A Sessions",
+    "prompt": "List possible queries from Company X's stakeholders about the proposed organizational restructuring.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "predict questions from management - Q&A Sessions",
+    "prompt": "Predict questions from Company X's management team about the implementation timeline and resource requirements for the recommended marketing strategy.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "recent trends in sector - Industry Knowledge",
+    "prompt": "Provide a summary of the recent trends and developments in the renewable energy sector.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "recent trends in sector - Industry Knowledge",
+    "prompt": "Outline the current best practices in supply chain management for the retail industry.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "emerging tech& innovations - Industry Knowledge",
+    "prompt": "Describe the emerging technologies and innovations in the pharmaceutical sector.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "key events and changes - Industry Knowledge",
+    "prompt": "Highlight key events and changes in the global automotive industry over the past year.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "latest regulatory changes - Industry Knowledge",
+    "prompt": "Explain the latest regulatory changes and their implications for the financial services industry.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "resources to improve skills - Consulting Skills",
+    "prompt": "Suggest resources for improving my negotiation skills in a consulting context.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "resources to improve skills - Consulting Skills",
+    "prompt": "Recommend strategies for enhancing my analytical and problem-solving abilities as a consultant.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "building strong relationship - Consulting Skills",
+    "prompt": "Provide tips for building strong relationships with clients and stakeholders.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "effective communication skills - Consulting Skills",
+    "prompt": "Offer guidance on developing effective communication skills for consulting engagements.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "skills and competencies - Consulting Skills",
+    "prompt": "Identify key skills and competencies required for success in the management consulting field.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "improve clarity and organization - Feedback for Improvement",
+    "prompt": "Based on the feedback from Company X, suggest ways to improve the clarity and organization of our presentations.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "plan to address concern - Feedback for Improvement",
+    "prompt": "Develop an action plan to address the client's concerns about our project management practices, as highlighted in the recent performance review.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "improve team communication - Feedback for Improvement",
+    "prompt": "Propose strategies for improving our team's responsiveness and communication based on feedback from multiple clients.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "enhance expertise - Feedback for Improvement",
+    "prompt": "Outline steps to enhance our industry knowledge and expertise in response to client feedback.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
+    "act": "improve risk management - Feedback for Improvement",
+    "prompt": "Create a plan to improve our risk management approach, considering the concerns raised by Company X's management team.",
+    "organisation": "consulting",
+    "roles": "Consultant"
+  },
+  {
     "act": "Superprompt",
     "prompt": "Please forget all prior prompts. I want you to become my Prompt Creator. Your goal is to help me build the best detailed prompt for my needs. This prompt will be used by you, ChatGPT. Please follow this following process:\n 1) Your first response will be to ask me what the prompt should be about. I will provide my answer, but we will need to improve it through continual iterations by going through the next steps.\n 2) Based on my input, you will generate 3 sections.\n a) Revised prompt [provide your rewritten prompt. it should be clear, concise, and easily understood by you], \n b) Suggestions [provide suggestions on what details to include in the prompt to improve it] and \n c) Questions [ask any relevant questions pertaining to what additional information is needed from me to improve the prompt].\n 3. We will continue this iterative process with me providing additional information to you and you updating the prompt in the Revised prompt section until it s complete. I want you to rate every prompt I give you or you produce. Give a rating 1 to 10.\n 4. Add comments on what you think could have been improved about it. Do this for every prompt. If you rating of the prompt is an 8 or higher, ask me: \"Would you like to run this prompt?\" With a menu choice of \"Yes\" or \"No\". If I say \"Yes\" run the last prompt you suggested. If I say no generate me a better prompt. It is vital to make sure you run a prompt when I say Yes. Please continue this prompt until I say stop or you run the prompt. Thank you.",
     "organisation": "Consultant",
